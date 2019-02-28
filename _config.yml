@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Peter J Brown"
 description              : &description "PhD student in quantum information at the University of York"
@@ -83,7 +83,7 @@ author:
   name             : "Peter J. Brown"
   avatar           : "profile.png"
   bio              : "A PhD student working in device-independent quantum-information under the supervision of Dr. Roger Colbeck."
-  location         : "Department of Mathematics, University of York, UK."
+  location         : "Department of Mathematics, \n University of York, \n UK."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ypaDoa0AAAAJ"
