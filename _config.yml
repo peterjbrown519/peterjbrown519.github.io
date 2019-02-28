@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Personal Website"
 title_separator          : "-"
-name                     : &name "Peter J Brown"
+name                     : &name "Peter J. Brown"
 description              : &description "PhD student in quantum information at the University of York"
 url                      : https://peterjbrown519.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ author:
   name             : "Peter J. Brown"
   avatar           : "profile.png"
   bio              : "A PhD student working in device-independent quantum-information under the supervision of Dr. Roger Colbeck."
-  location         : "Department of Mathematics, \n University of York, \n UK."
+  location         : "University of York, \n UK."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ypaDoa0AAAAJ"
