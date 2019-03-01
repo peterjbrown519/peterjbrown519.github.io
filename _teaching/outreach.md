@@ -3,6 +3,7 @@ title: "Outreach events"
 collection: teaching
 type: "Outreach events"
 permalink: /teaching/outreach
+date: 2019
 venue: ""
 location: "UK"
 ---
