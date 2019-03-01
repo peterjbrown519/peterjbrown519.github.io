@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/seminars-york
 venue: "Department of Mathematics, University of York"
-date: 2016 - 2019
+date: 2019
 location: "York, UK"
 ---
 
