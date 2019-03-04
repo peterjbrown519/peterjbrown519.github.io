@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Aint nobody here but us chickens right now
+Aint nobody here but us chickens.
+
+(Under construction)
