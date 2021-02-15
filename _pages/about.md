@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Aint nobody here but us chickens.
-
 (Under construction)
+
+**Current email:**  peter (dot) brown (at) ens-lyon (dot) fr
