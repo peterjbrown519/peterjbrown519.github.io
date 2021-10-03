@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,6 +11,29 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- P. Brown, H. Fawzi and O. Fawzi, Device-independent lower bounds on the conditional von Neumann entropy. (2021) \\
+[arXiv](https://arxiv.org/abs/2106.13692){: .btn--research}
+[Code](https://github.com/peterjbrown519/DI-rates){: .btn--research}
+
+# Publications
+
+- A. Denys, P. Brown and A. Leverrier, Explicit asymptotic secret key rate of continuous variable quantum key distribution with an arbitrary modulation. Quantum 5, 540 (2021) \\
+ [Journal](https://doi.org/10.22331/q-2021-09-13-540){: .btn--research} [arXiv](https://arxiv.org/abs/2103.13945){: .btn--research}
+
+- W-Z. Liu, M-H. Li, S. Ragy, S-R. Zhao, B. Bai, Y. Liu, P. Brown, J. Zhang, R. Colbeck, J. Fan, Q. Zhang and J-W. Pan, Device-independent randomness expansion against quantum side information. Nature Physics 17.4 (2021) \\
+ [Journal](https://www.nature.com/articles/s41567-020-01147-2){: .btn--research} [arXiv](https://arxiv.org/abs/1810.13346){: .btn--research}
+
+- P. Brown, H. Fawzi and O. Fawzi, Computing conditional entropies for quantum correlations. Nature communications 12.1 (2021) \\
+ [Journal](https://www.nature.com/articles/s41467-020-20018-1){: .btn--research} [arXiv](https://arxiv.org/abs/2007.12575){: .btn--research} [Code](https://github.com/peterjbrown519/im_divergences){: .btn--research}
+
+- P.J. Brown and R. Colbeck, Arbitrarily many independent observers can share the nonlocality of a single maximally entangled qubit pair. Physical Review Letters 125.9 (2020) \\
+ [Journal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.090401){: .btn--research} [arXiv](https://arxiv.org/abs/2003.12105){: .btn--research}
+
+- P.J. Brown, S. Ragy and R. Colbeck. An adaptive framework for quantum-secure device-independent randomness expansion. IEEE Transactions on Information Theory 66.5 (2020) \\
+ [Journal](https://ieeexplore.ieee.org/abstract/document/8935370){: .btn--research} [arXiv](https://arxiv.org/abs/1810.13346){: .btn--research} [Code](https://github.com/peterjbrown519/dirng){: .btn--research}
+
+ - P.J. Brown, C.J. Fewster and EA. Kontou, Classical and quantum strong energy inequalities and the Hawking singularity theorem. To appear in 15th Marcel Grossmann conference proceedings (2019) \\
+[arXiv](https://arxiv.org/abs/1904.00419){: .btn--research}
+
+- P.J. Brown, C.J. Fewster and EA. Kontou, A singularity theorem for Einstein-Klein-Gordon theory. Gen Relativ Gravit (2018) 50: 121. \\
+ [Journal](https://link.springer.com/article/10.1007/s10714-018-2446-5){: .btn--research} [arXiv](https://arxiv.org/abs/1803.11094){: .btn--research}
