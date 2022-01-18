@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Peter J. Brown"
   avatar           : "profile_image.jpg"
-  bio              : "Postdoctoral researcher in quantum information."
-  location         : "Inria / ENS de Lyon, France"
+  bio              : "Assistant professor in quantum information. Photo copyright Inria/Photo B. Fourrier."
+  location         : "IQA, Telecom Paris, France"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ypaDoa0AAAAJ"
-  email            : "peter (dot) brown (at) ens-lyon (dot) fr"
+  email            : "firstname.lastname@telecom-paris.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
