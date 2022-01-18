@@ -14,7 +14,9 @@ My CV can be found [here](/files/cv_pjb.pdf).
 
 ## Research Interests
 
-I am broadly interested in problems within *quantum information* and have a particular affinity for *device-independent cryptography*.
+I am broadly interested in problems within *quantum information* and have a particular affinity for *device-independent cryptography*. 
+
+I am happy to surpervise Masters level internships on various topics within quantum information and quantum cryptography. Please feel free to contact me if you're interested. 
 
 ## Current email
 
