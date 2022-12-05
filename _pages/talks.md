@@ -10,6 +10,18 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+- 2SQRT2 Tsirelson memorial workshop - Apr 2022 (IQOQI Vienna)  \\
+  Title: Variational bounds on the relative entropy and their application \\
+[Workshop](https://tsirelson.iqoqi.oeaw.ac.at/){: .btn--research}
+[Paper1](https://arxiv.org/abs/2106.13692){: .btn--research}
+[Paper2](https://arxiv.org/abs/2203.03394){: .btn--research}
+[Slides](/files/2sqrt2_slides.pdf){: .btn--research}
+
+- QIP 2022 - Mar 2022 (Caltech USA) \\
+  Title: Variational bounds on the relative entropy and their application \\
+[Paper1](https://arxiv.org/abs/2106.13692){: .btn--research}
+[Paper2](https://arxiv.org/abs/2203.03394){: .btn--research}
+[Slides](/files/qip22_slides.pdf){: .btn--research}
 
 - Beyond IID 9 - Sep 2021 (online) \\
   Title: Device-independent lower bounds on the conditional von Neumann entropy \\
@@ -67,7 +79,13 @@ author_profile: true
   [Conference](https://quantumroundabout.wordpress.com/){: .btn--research}
 [Paper](https://arxiv.org/abs/1810.13346){: .btn--research}
 
-# Seminars
+# Invited Seminars
+
+- LIP6 research seminar, Sorbonne university - Jun 2022 \\
+  Title: Computing rates of device-independent protocols
+
+- Quandela research seminar - May 2022 \\
+  Title: Computing rates of device-independent protocols
 
 - Düsseldorf Quantum Info online Seminars - Oct 2020 (Heinrich Heine University Düsseldorf) \\
   Title: Computing device-independent lower bounds on the conditional von Neumann entropy \\
