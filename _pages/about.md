@@ -14,14 +14,14 @@ My CV can be found [here](/files/cv_pjb.pdf).
 
 ## Research Interests
 
-I am broadly interested in problems within *quantum information* and have a particular affinity for *device-independent cryptography*.
+I am broadly interested in problems within *quantum information* with a particular interest in *device-independent cryptography*.
 
 
 ## Current openings
 
-Candidates interested in Master's internships and PhD positions are encouraged to contact me.
+- Candidates interested in Master's internships and PhD positions are encouraged to contact me.
 
-Currently actively looking for excellent internship candidates to work on a 6 month research project -- see the advert [here](/files/internship_offer.pdf).
+- Currently actively looking for excellent internship candidates to work on a 6 month research project -- see the advert [here](/files/internship_offer.pdf).
 
 
 ## Current email

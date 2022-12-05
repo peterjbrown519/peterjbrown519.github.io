@@ -16,6 +16,8 @@ author_profile: true
 [Code](https://github.com/peterjbrown519/DI-rates){: .btn--research}
 
 # Publications
+- L. Wooltorton, P. Brown and R. Colbeck, Tight analytic bound on the trade-off between device-independent randomness and nonlocality. Phys. Rev. Lett. 129, 150403 (2022) \\
+ [Journal](https://doi.org/10.1103/PhysRevLett.129.150403){: .btn--research} [arXiv](https://arxiv.org/abs/2205.00124){: .btn--research}
 
 - A. Denys, P. Brown and A. Leverrier, Explicit asymptotic secret key rate of continuous variable quantum key distribution with an arbitrary modulation. Quantum 5, 540 (2021) \\
  [Journal](https://doi.org/10.22331/q-2021-09-13-540){: .btn--research} [arXiv](https://arxiv.org/abs/2103.13945){: .btn--research}
