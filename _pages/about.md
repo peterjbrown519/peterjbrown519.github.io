@@ -19,8 +19,7 @@ I am broadly interested in problems within *quantum information* with a particul
 
 ## Current openings
 
-- Candidates interested in Master's internships and PhD positions are encouraged to contact me.
-
+- Potential PhD position to work on device-independent cryptography, (contact asap).
 - Currently actively looking for excellent internship candidates to work on a 6 month research project -- see the advert [here](/files/internship_offer.pdf).
 
 
