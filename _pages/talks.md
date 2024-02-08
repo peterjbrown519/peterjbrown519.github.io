@@ -10,6 +10,43 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+# Invited lectures
+
+- QSI School on quantum cryptography - Jan 2024 (Asiago) \\
+Title: Semidefinite programming for quantum communications \\
+[School](https://qsi.uvigo.es/conferencias/school-on-quantum-cryptograghy-sqc-padova/){: .btn--research}
+[Slides](https://github.com/peterjbrown519/QSI-school/blob/main/SDPs.pdf){: .btn--research}
+[Code](https://github.com/peterjbrown519/QSI-school){: .btn--research}
+
+- QCOMMs Quantum Communication School - May 2023 (University of Padova) \\
+Title: Introduction to device-independent cryptography \\
+[School](http://qcomms.dei.unipd.it/){: .btn--research}
+[Notes](/files/device_independence_lecture.pdf){: .btn--research}
+
+- QCOMMs Quantum Communication School - May 2023 (University of Padova) \\
+Title: Introduction to device-independent cryptography \\
+[School](http://qcomms.dei.unipd.it/){: .btn--research}
+[Notes](/files/device_independence_lecture.pdf){: .btn--research}
+
+# Invited talks
+
+- Workshop on Gaussian and non-Gaussian Quantum Correlations (GnGQC) - Dec 2023 (DTU Copenhagen) \\
+Title: On the finite size security of QKD \\
+[Workshop](https://www.fysik.dtu.dk/english/research-sections/qpit/events/gaussian-and-non-gaussian-quantum-correlations-og-40gngqcog-41-2023){: .btn--research}
+
+- Workshop on security proofs in quantum cryptography - Sep 2023 (IQC Waterloo) \\
+Title: Computing device-independent quantities / On a new finite-size security proof
+
+- Workshop on security proofs in quantum cryptography - Sep 2022 (IQC Waterloo) \\
+Title: Variational bounds on the von Neumann entropy.
+
+# Contributed talks
+
+- Quantum certification conference (QUACC) - Nov 2023 (CTP Warsaw) \\
+Title: On the finite size security of QKD \\
+[Conference](https://quacc2023.cft.edu.pl/){: .btn--research}
+
 - 2SQRT2 Tsirelson memorial workshop - Apr 2022 (IQOQI Vienna)  \\
   Title: Variational bounds on the relative entropy and their application \\
 [Workshop](https://tsirelson.iqoqi.oeaw.ac.at/){: .btn--research}

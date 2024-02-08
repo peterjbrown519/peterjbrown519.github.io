@@ -11,6 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
+- F. Mazzoncini, B. Bauer, P. Brown and R. Alléaume, Hybrid Quantum Cryptography from Communication Complexity. (2023) \\
+[arXiv](https://arxiv.org/abs/2311.09164){: .btn--research}
+
+- L. Wooltorton, P. Brown and R. Colbeck, Device-independent quantum key distribution with arbitrarily small nonlocality. (2023) \\
+[arXiv](https://arxiv.org/abs/2309.09650){: .btn--research}
+
+- L. Wooltorton, P. Brown and R. Colbeck, Expanding bipartite Bell inequalities for maximum multi-partite randomness. (2023) \\
+[arXiv](https://arxiv.org/abs/2308.07030){: .btn--research}
+
+- A. Tavakoli, A.Pozas-Kerstjens, P. Brown and M. Araújo, Semidefinite programming relaxations for quantum correlations. (2023) \\
+[arXiv](https://arxiv.org/abs/2307.02551){: .btn--research}
+
 - P. Brown, H. Fawzi and O. Fawzi, Device-independent lower bounds on the conditional von Neumann entropy. (2021) \\
 [arXiv](https://arxiv.org/abs/2106.13692){: .btn--research}
 [Code](https://github.com/peterjbrown519/DI-rates){: .btn--research}
