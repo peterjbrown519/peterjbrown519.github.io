@@ -13,16 +13,16 @@ author_profile: true
 
 # Invited lectures
 
+- QCrypt2024 Tutorial - Sep 2024 (Vigo) \\
+Title: Computing secret key rates \\
+[Conference](https://2024.qcrypt.net/){: .btn--research}
+[Slides (pptx)](/files/QCrypt_tutorial_final.pptx){: .btn--research}
+
 - QSI School on quantum cryptography - Jan 2024 (Asiago) \\
 Title: Semidefinite programming for quantum communications \\
 [School](https://qsi.uvigo.es/conferencias/school-on-quantum-cryptograghy-sqc-padova/){: .btn--research}
 [Slides](https://github.com/peterjbrown519/QSI-school/blob/main/SDPs.pdf){: .btn--research}
 [Code](https://github.com/peterjbrown519/QSI-school){: .btn--research}
-
-- QCOMMs Quantum Communication School - May 2023 (University of Padova) \\
-Title: Introduction to device-independent cryptography \\
-[School](http://qcomms.dei.unipd.it/){: .btn--research}
-[Notes](/files/device_independence_lecture.pdf){: .btn--research}
 
 - QCOMMs Quantum Communication School - May 2023 (University of Padova) \\
 Title: Introduction to device-independent cryptography \\
