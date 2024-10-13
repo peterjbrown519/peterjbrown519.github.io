@@ -11,23 +11,29 @@ author_profile: true
 
 {% include base_path %}
 
+- T. Hahn, E. Tan and P.Brown,Bounds on Petz-Rényi Divergences and their Applications for Device-Independent Cryptography. (2024) \\
+[arXiv](https://arxiv.org/abs/2408.12313){: .btn--research}
+
 - F. Mazzoncini, B. Bauer, P. Brown and R. Alléaume, Hybrid Quantum Cryptography from Communication Complexity. (2023) \\
 [arXiv](https://arxiv.org/abs/2311.09164){: .btn--research}
-
-- L. Wooltorton, P. Brown and R. Colbeck, Device-independent quantum key distribution with arbitrarily small nonlocality. (2023) \\
-[arXiv](https://arxiv.org/abs/2309.09650){: .btn--research}
 
 - L. Wooltorton, P. Brown and R. Colbeck, Expanding bipartite Bell inequalities for maximum multi-partite randomness. (2023) \\
 [arXiv](https://arxiv.org/abs/2308.07030){: .btn--research}
 
-- A. Tavakoli, A.Pozas-Kerstjens, P. Brown and M. Araújo, Semidefinite programming relaxations for quantum correlations. (2023) \\
+# Publications
+- A. Tavakoli, A.Pozas-Kerstjens, P. Brown and M. Araújo, Semidefinite programming relaxations for quantum correlations. Accepted in Reviews of Modern Physics (2024) \\
+[Journal](https://journals.aps.org/rmp/accepted/27077E80G1810208509c8460c428a77c7932e3993){: .btn--research}
 [arXiv](https://arxiv.org/abs/2307.02551){: .btn--research}
 
-- P. Brown, H. Fawzi and O. Fawzi, Device-independent lower bounds on the conditional von Neumann entropy. (2021) \\
+- L. Wooltorton, P. Brown and R. Colbeck, Device-independent quantum key distribution with arbitrarily small nonlocality.  Physical Review Letters 132.21 (2024) \\
+[Journal](https://doi.org/10.1103/PhysRevLett.132.210802){: .btn--research}
+[arXiv](https://arxiv.org/abs/2309.09650){: .btn--research}
+
+- P. Brown, H. Fawzi and O. Fawzi, Device-independent lower bounds on the conditional von Neumann entropy. Quantum 8 1445 (2024) \\
+[Journal](https://doi.org/10.22331/q-2024-08-27-1445){: .btn--research}
 [arXiv](https://arxiv.org/abs/2106.13692){: .btn--research}
 [Code](https://github.com/peterjbrown519/DI-rates){: .btn--research}
 
-# Publications
 - L. Wooltorton, P. Brown and R. Colbeck, Tight analytic bound on the trade-off between device-independent randomness and nonlocality. Phys. Rev. Lett. 129, 150403 (2022) \\
  [Journal](https://doi.org/10.1103/PhysRevLett.129.150403){: .btn--research} [arXiv](https://arxiv.org/abs/2205.00124){: .btn--research}
 
