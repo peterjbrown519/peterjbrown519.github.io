@@ -21,6 +21,10 @@ I am broadly interested in problems within *quantum information* with a particul
 
 - Nothing in particular at the moment but strong candidates are encouraged to send an email.
 
+## News
+
+We're launching a **new masters program** in quantum technologies for computer scientists and mathematicians to start September 2025. Please see [QMI homepage](https://quriosity.telecom-paris.fr/qmi/qmi.html) for more information, applications are now open. 
+
 
 ## Current email
 
