@@ -19,11 +19,11 @@ I am broadly interested in problems within *quantum information* with a particul
 
 ## Current openings
 
-- Nothing in particular at the moment but strong candidates are encouraged to send an email.
+- I am searching for a postdoc to begin in Autumn 2025 to work together with myself and a colleague [Cambyse Rouzé](https://www.xn--cambyserouz-lbb.fr/). Full details for applying can be found in the following [PDF](/files/postdoc_offer.pdf).
 
 ## News
 
-We're launching a **new masters program** in quantum technologies for computer scientists and mathematicians to start September 2025. Please see [QMI homepage](https://quriosity.telecom-paris.fr/qmi/qmi.html) for more information, applications are now open. 
+We're launching a **new masters program** in quantum technologies for computer scientists and mathematicians to start September 2025. Please see [QMI homepage](https://quriosity.telecom-paris.fr/qmi/qmi.html) for more information, applications are now open.
 
 
 ## Current email
